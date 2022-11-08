@@ -6,7 +6,7 @@ agents chosen at random to play a game. The game is very simple: each agent carr
 out one of two possible actions, ‘cooperate’ or ‘be selfish’. The game payoffs to both
 agents are described by the following table:
 
-[]!(images/filename table.png)
+[]!(images/table.png)
 
 Every agent is a member of exactly one society, and there are four societies with
 different rules of conduct to choose from. Each agent’s action is fully determined by the
