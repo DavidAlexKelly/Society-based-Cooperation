@@ -1,4 +1,4 @@
 # Society-based-Cooperation
 
 
-[]!(images/table.png)
+[ ]!(images/table.png)
