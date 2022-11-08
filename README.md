@@ -1,12 +1,14 @@
 # Society-based-Cooperation
 
+
+
 A population of agents exists in an environment in which the location of an agent is
 unknown and irrelevant; the only possible event in this environment is for a pair of
 agents chosen at random to play a game. The game is very simple: each agent carries
 out one of two possible actions, ‘cooperate’ or ‘be selfish’. The game payoffs to both
 agents are described by the following table:
 
-[]! (images/filename table.png)
+![My Image](images/table.png)
 
 Every agent is a member of exactly one society, and there are four societies with
 different rules of conduct to choose from. Each agent’s action is fully determined by the
